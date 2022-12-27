@@ -1,0 +1,9 @@
+full_name,site,parameter,V1
+Linf_hyper,hyper,Linf,778
+K_hyper,hyper,K,0.533
+max_hyper,hyper,max,0.5941998
+alpha_hyper,hyper,alpha,450
+beta_hyper,hyper,beta,-5
+min_hyper,hyper,min,0
+g_migration_hyper,hyper,g_migration,0
+g_length_hyper,hyper,g_length,0.0000000001

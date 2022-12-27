@@ -1,0 +1,9 @@
+Node,Group,produce_eggs,StartPop,RatioAtBirth,initialMu,initialSD,sigmaJ
+a,Male,FALSE,10000,0.5,300,30,0.1
+a,Female,TRUE,10000,0.5,300,30,0.1
+b,Male,FALSE,10000,0.5,300,30,0.1
+b,Female,TRUE,10000,0.5,300,30,0.1
+c,Male,FALSE,10000,0.5,300,30,0.1
+c,Female,TRUE,10000,0.5,300,30,0.1
+d,Male,FALSE,10000,0.5,300,30,0.1
+d,Female,TRUE,10000,0.5,300,30,0.1

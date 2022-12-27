@@ -1,0 +1,7 @@
+,column,start,end
+0,b-c,b,c
+1,b-a,b,a
+2,c-b,c,b
+3,c-a,c,a
+4,a-b,a,b
+5,a-c,a,c

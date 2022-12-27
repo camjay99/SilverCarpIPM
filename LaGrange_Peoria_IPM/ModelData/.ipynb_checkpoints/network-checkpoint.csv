@@ -1,0 +1,2 @@
+network_name,n_years,min_length,max_length,n_points,spawn_months,spawn_a,spawn_b,no_months,egg_viability
+two_pools,75,0.01,1000,100,0;0,0.25,0.25,1,0.00003
