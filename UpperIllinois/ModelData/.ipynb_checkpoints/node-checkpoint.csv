@@ -1,5 +1,0 @@
-network,River,Pool,Spawn,S0,h,R0,harvest_start,harvest_end,harvest_month,harvest_min,harvest_max,harvest_slope,harvest_inflection,egg_alpha,egg_beta,min_recruit,max_recruit
-upper_illinois,Dresden Island,a,TRUE,800,1,1000,2,75,0;0,0,0,0,642.35,2755.40,0.0027410,0,629167
-upper_illinois,Marseilles,b,TRUE,800,1,1000,2,75,0;0,0,0,0,643.35,2755.40,0.0027410,0,629167
-upper_illinois,Starved Rock,c,TRUE,800,1,1000,2,75,0;0,0,0,0,643.35,2755.40,0.0027410,0,629167
-upper_illinois,Lake Michigan,d,TRUE,800,1,1000,2,75,0;0,0,0,0,643.35,2755.40,0.0027410,0,629167
